@@ -10,4 +10,10 @@ To get more information, follow this link: https://aka.ms/winget-command-help
 
 - **Windows Package Manager** winget command-line tool is available on Windows 11 and modern versions of Windows 10 as a part of the App Installer.
 
-To install winget
+# **Install winget**
+
+Windows Package Manager **winget** command-line tool is available on Windows 11 and modern versions of Windows 10 as a part of the **App Installer**.
+
+You can get App Installer from the Microsoft Store. If it's already installed, make sure it is updated with the latest version.
+
+![](../../Image/app-installer-windows-10-la-gi-1.jpg)
