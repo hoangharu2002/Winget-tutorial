@@ -16,4 +16,4 @@ Windows Package Manager **winget** command-line tool is available on Windows 11 
 
 You can get App Installer from the Microsoft Store. If it's already installed, make sure it is updated with the latest version.
 
-![](../../Image/app-installer-windows-10-la-gi-1.jpg)
+![](Image/app-installer-windows-10-la-gi-1.jpg)
