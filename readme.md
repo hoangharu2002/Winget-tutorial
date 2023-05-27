@@ -21,5 +21,9 @@ You can get App Installer from the Microsoft Store. If it's already installed, m
 You can check the winget version to make sure it's installed completely
 
 ```console
-winget --version, winget -v
+winget --version
+```
+or
+```console
+winget -v
 ```
