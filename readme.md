@@ -1,4 +1,4 @@
-# **This is Winget tutorial.**
+# **This is my Winget tutorial.**
 
 To get more information, follow this link: https://aka.ms/winget-command-help
 
