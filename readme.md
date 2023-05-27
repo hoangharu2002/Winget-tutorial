@@ -1,6 +1,6 @@
 # **This is my Winget tutorial.**
 
-To get more information, follow this link: https://aka.ms/winget-command-help
+To get more information, follow this link: https://learn.microsoft.com/en-us/windows/package-manager/winget/
 
 **Winget** is a command line tool of **Windows Package Manager**.
 
