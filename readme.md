@@ -33,3 +33,28 @@ You also get information about winget tool using
 ```console
 winget --info
 ```
+
+# **Use winget**
+After **App Installer** is installed, you can run **winget** by typing 'winget' from a Command Prompt.
+
+winget <command> <option>
+
+For detail the use of winget using
+
+```console
+winget --help
+```
+or
+```console
+winget -?
+```
+
+You can aslo use 'help' with subcommand in winget for detail
+
+```console
+winget <command> --help
+```
+or
+```console
+winget <command> -?
+```
