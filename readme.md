@@ -27,3 +27,9 @@ or
 ```console
 winget -v
 ```
+
+You also get information about winget tool using
+
+```console
+winget --info
+```
